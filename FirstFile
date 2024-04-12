@@ -1,0 +1,1 @@
+Le fichier .gitignore est utilisé pour spécifier intentionnellement les fichiers qui doivent être ignorés par Git. Il est utile pour exclure des fichiers générés automatiquement, des fichiers de configuration, des fichiers de compilation, etc.
